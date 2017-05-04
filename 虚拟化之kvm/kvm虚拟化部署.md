@@ -7,7 +7,8 @@ KVM的虚拟化需要硬件支持（如Intel VT技术或者AMD V技术)。是基
 **1、环境准备**  
 
 ![](http://i.imgur.com/TnUzog5.png)
-![](http://i.imgur.com/cglcKLQ.png)
+![](http://i.imgur.com/cglcKLQ.png)  
+
 **2.部署kvm**  
 
 	[root@linux-node2 zhang]# cat /etc/redhat-release   
